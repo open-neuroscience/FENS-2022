@@ -27,7 +27,7 @@ layout: home
 </p>
 
 <p style='text-align: justify;'>
-<a href="https://open-neuroscience.com/"> Open-Neuroscience</a> in collaboration with the <a href="https://www.pasteur.fr/fr/nos-missions/recherche/neuroscience"> Neurosciecne department of the Institute Pasteur </a> and <a href="https://www.sussex.ac.uk/research/centres/sussex-neuroscience/"> the University of Sussex neuroscience department </a> is organising a <a href="https://forum.fens.org/confirmed-satellite-events/"> <strong>satellite event</strong></a> on <strong>Open Hardware Microscopy Development</strong>. <em><strong>The aim of this event is to bring into focus excellent open projects that permeate education, ease of access and data collection in advanced research environment.</strong></em>
+<a href="https://open-neuroscience.com/"> Open-Neuroscience</a> in collaboration with the <a href="https://www.pasteur.fr/fr/nos-missions/recherche/neuroscience"> Neuroscience department of the Institute Pasteur </a> and <a href="https://www.sussex.ac.uk/research/centres/sussex-neuroscience/"> the University of Sussex neuroscience department </a> is organising a <a href="https://forum.fens.org/confirmed-satellite-events/"> <strong>satellite event</strong></a> on <strong>Open Hardware Microscopy Development</strong>. <em><strong>The aim of this event is to bring into focus excellent open projects that permeate education, ease of access and data collection in advanced research environment.</strong></em>
 </p>
 
 <p style='text-align: justify;'>
@@ -35,7 +35,10 @@ The symposium will take place on July 8th at the <a href="https://www.google.com
 <strong>Registration is necessary to access the campus :</strong>
 </p>
 
-<button name="button" onclick="https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link">Registration Form</button>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link" class="actionbtn">
+  <span class="far fa-envelope" aria-hidden="true"></span>
+  REGISTER
+</a>
 
 
 
