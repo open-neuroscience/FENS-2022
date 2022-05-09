@@ -81,9 +81,9 @@ It is our goal that by the end of the day, participants get a full picture of th
 <h3 align="center">Afternoon session 13:00-18:00</h3>
 
 
-| ||
+|  |  |
 |--|--|
-|13:00| Introduction <strong>Maxime Zimmermann</strong> & <strong>Nathalie Aulner</strong>||
+|13:00| Introduction <strong>Maxime Zimmermann</strong> & <strong>Nathalie Aulner</strong>|
 |13:20| OpenFlexure <strong>Richard Bowman</strong>|
 |13:40| UC2 <strong>Barbora Marsikova</strong>|
 |14:00| LEGOLish <strong>Julien Collombeli</strong>|
