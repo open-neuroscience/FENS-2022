@@ -34,6 +34,14 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+site-css: "/assets/css/fens2022.css"
+
+navbar-links:
+  REGISTER: "https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link"
+  #About Us: "/#aboutus"
+  #Clients: "/#clients"
+  #Open-Source: "/#portfolio"
+  #Contact Us: "/contact"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

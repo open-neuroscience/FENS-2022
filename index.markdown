@@ -18,6 +18,9 @@ layout: home
 <br>
 <br>
 
+
+
+
 <div>
 <h1 align="center"> Open Source Microscopy Symposium </h1>
 <h3 align="center"> Developing microscopy tools for neuroscience research and education</h3>
@@ -27,6 +30,10 @@ layout: home
 <br>
 
 </div>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link" class="actionbtn">
+  <span class="far fa-envelope" aria-hidden="true"></span>
+  REGISTER
+</a>
 
 
 <br>
