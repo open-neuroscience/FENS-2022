@@ -15,7 +15,6 @@ layout: home
 <p align="right">by
 <img align="right" width="300" src="./Logos/ON.png"/></p>
 <br>
-<br>
 
 </div>
 
