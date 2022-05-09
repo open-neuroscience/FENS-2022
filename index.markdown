@@ -18,10 +18,6 @@ layout: home
 
 </div>
 
-
-<br>
-<br>
-
 <p style='text-align: justify;'>
 <a href="https://forum.fens.org/">Fens Forum 2022 </a>(the largest neuroscience meeting in Europe), will take place in Paris in July. The event covers all fields of neuroscience and comprises a range of symposia, technical workshops, plenary and special lectures and poster sessions as well as a number of social events.
 </p>
