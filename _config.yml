@@ -35,9 +35,7 @@ plugins:
   - jekyll-remote-theme
 
 site-css: "/assets/css/fens2022.css"
-bigimg:
-
-  - "/Logos/banner.png"
+title-img: "/Logos/banner.png"
 
 navbar-col: "22409a"
 navbar-text-col: "#ffffff"
