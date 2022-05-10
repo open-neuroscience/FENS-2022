@@ -70,7 +70,7 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "a.maia-chagas@sussex.ac.uk"
-  github: amchagas
+  email: "openeuroscience@gmail.com"
+  # github: amchagas
   twitter: openneurosci
   youtube: "/channel/UCHPvi_HaEU7OQgXQBh9ECvQ"
