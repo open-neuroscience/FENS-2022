@@ -9,7 +9,7 @@ layout: home
 
 <div>
 <h1 align="center"> Open Source Microscopy Symposium </h1>
-<h3 align="center"> Developing microscopy tools for neuroscience research and education</h3>
+<h4 align="center"> Developing microscopy tools for neuroscience research and education</h4>
 <p align="right">by
 <img align="right" width="300" src="./Logos/ON.png"/></p>
 <br>
