@@ -20,7 +20,6 @@
 
 title: Open Source Microscopy Symposium
 email: a.maia-chagas@sussex.ac.uk
-cover-img: "/Logos/banner.png"
 description: >- # this means to ignore newlines until "baseurl:"
   Developing microscopy tools for neuroscience research and education
 baseurl: "FENS2" # the subpath of your site, e.g. /blog
@@ -36,7 +35,7 @@ plugins:
   - jekyll-remote-theme
 
 site-css: "/assets/css/fens2022.css"
-
+cover-img: "/Logos/banner.png"
 navbar-links:
   REGISTER: "https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link"
   #About Us: "/#aboutus"
