@@ -59,15 +59,11 @@ It is our goal that by the end of the day, participants get a full picture of th
 
 <h3 align="center">Morning session 09:00-12:00 </h3>
 
-|    Workshops    | Live Demos / information booths |
-|-----------------|--------------------------------|
-|<a href="https://openflexure.org/">OpenFlexure</a> **Richard Bowman**|<a href="http://legolish.org/authors/">LEGOLish </a> **Julien Colombeli**|
-|<a href="https://github.com/openUC2/UC2-GIT"> UC2 </a> **Barbora Marsikova** |Institute Pasteur <a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" >FabLab </a>& <a href="https://www.pasteur.fr/fr/ceris" > CeRIS 	</a>**Eric Nicolau** & **Fanny Sebire**|
-|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> / <a href="https://open-labware.net/"> OpenLabware</a> **Andre M Chagas** |<a href="https://trendinafrica.org/"> Trend in Africa</a> **Samyra Salek**|
-|  |<a href="https://open-ephys.org/">Open Ephys</a> **Alex Leighton**|
-
-
-
+|    Workshops    | Live Demos | Information Booths |
+|-----------------|------------|--------------------|
+|<a href="https://openflexure.org/">OpenFlexure</a> **Richard Bowman**|<a href="http://legolish.org/authors/">LEGOLish </a> **Julien Colombeli**| <a href="https://trendinafrica.org/"> Trend in Africa</a> **Samyra Salek**|
+|<a href="https://github.com/openUC2/UC2-GIT"> UC2 </a> **Barbora Marsikova** |<a href="https://open-ephys.org/">Open Ephys</a> **Alex Leighton**| <a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" >Institut Pasteur FabLab </a> **Eric Nicolau**|
+|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> / <a href="https://open-labware.net/"> OpenLabware</a> **Andre M Chagas** | | <a href="https://www.pasteur.fr/fr/ceris" > Institut Pasteur CeRIS 	</a>& **Fanny Sebire**|
 
 <br>
 
@@ -109,74 +105,101 @@ It is our goal that by the end of the day, participants get a full picture of th
 ## Morning session
 
 ### 9:00 – 12:00: Morning workshops
+<br/><br/>
 
-<div id="openflexure">
-</div>
-
+<img align="right" width="100" src="./assets/Logos/OpenFlexure.png"/></img>
 · [OpenFlexure](https://open-neuroscience.com/post/openflexure/):
 
-A 3D printed flexure translation stage. The stage is capable of sub-micron-scale motion, with very small drift over time. Which makes it quite good, among other things, for time-lapse protocols that need to be done over days/weeks’ time, and under space restricted areas, such as fume hoods. Additional camera and servo motors, turns the stage into an automated microscope.
--	**Richard Bowman**, University of Bath, UK
--	**Julian Stirling**, University of Bath, UK
--	**Joe Kapner**, University of Bath, UK
+<p style='text-align: justify;'>
+A 3D printed flexure translation stage. The stage is capable of sub-micron-scale motion, with very small drift over time. Which makes it quite good, among other things, for time-lapse protocols that need to be done over days/weeks’ time, and under space restricted areas, such as fume hoods. Additional camera and servo motors, turns the stage into an automated microscope.<br/>
+-	<strong>Richard Bowman</strong>, University of Bath, UK<br/>
+-	<strong>Julian Stirling</strong>, University of Bath, UK<br/>
+-	<strong>Joe Kapner</strong>, University of Bath, UK<br/>
+</p>
 <br/><br/>
 
 
-<div id="UC2">
-</div>
 
+<img align="right" width="100" src="./assets/Logos/UC2.png"/></img>
 · [UC2](https://open-neuroscience.com/post/uc2/):
 
-An open-source optical toolbox that simplifies the process of building optical setups, by combining 3D-printed cubes, each holding a specific component (e.g. lens, mirror) on a magnetic square-grid baseplate. The use of widely available consumables and 3D printing, together with documentation and software, offers an extremely low-cost and accessible alternative for both education and research areas.
--	**Benedict Diederich**, Leibniz Institute of Photonic Technology, University of Jena
--	**Rene Richter**, Leibniz Institute of Photonic Technology, Germany
--	**Barbora Marisikova**, University of Jena, Germany
+<p style='text-align: justify;'>
+An open-source optical toolbox that simplifies the process of building optical setups, by combining 3D-printed cubes, each holding a specific component (e.g. lens, mirror) on a magnetic square-grid baseplate. The use of widely available consumables and 3D printing, together with documentation and software, offers an extremely low-cost and accessible alternative for both education and research areas.<br/>
+-	<strong>Benedict Diederich</strong>, Leibniz Institute of Photonic Technology, University of Jena<br/>
+-	<strong>Rene Richter</strong>, Leibniz Institute of Photonic Technology, Germany<br/>
+-	<strong>Barbora Marisikova</strong>, University of Jena, Germany<br/>
+</p>
 <br/><br/>
 
-<div id="flypi">
-</div>
 
+
+<img align="right" width="100" src="./assets/Logos/FlyPi.png"/></img>
 · [FlyPi](https://open-labware.net/projects/flypi/):
 
-A 3D-printable open-source platform for fluorescence microscopy, optogenetics and accurate temperature control. Designed for flexibiliy and low-cost, the “FlyPi” is an optical microscope designed for behavioural work with fruit flies, zebrafish or C. elegans. The system is based on a Raspberry Pi with camera, an Arduino microcontroller and a range of off-the-shelf electronic parts. A modular design provides for flexible control of a range of peripherals including options for optogenetic and thermogenetic stimulation and fluorescence microscopy. All mechanical parts are 3-D printed which includes a range of manual or motorised micropositioning options. The basic setup can be put together for below 100€. The low price means that it can be implemented in under-funded labs across the world, for classroom teaching in schools as well as by home-enthusiasts who are not part of the traditional scientific establishment.
--	**Andre Maia Chagas**, University of Sussex, TReND in Africa
--	**George Kafetzis**, University of Sussex, UK
--	**Samyra Salek**, TReND in Africa, UK
+<p style='text-align: justify;'>
+A 3D-printable open-source platform for fluorescence microscopy, optogenetics and accurate temperature control. Designed for flexibiliy and low-cost, the “FlyPi” is an optical microscope designed for behavioural work with fruit flies, zebrafish or C. elegans. The system is based on a Raspberry Pi with camera, an Arduino microcontroller and a range of off-the-shelf electronic parts. A modular design provides for flexible control of a range of peripherals including options for optogenetic and thermogenetic stimulation and fluorescence microscopy. All mechanical parts are 3-D printed which includes a range of manual or motorised micropositioning options. The basic setup can be put together for below 100€. The low price means that it can be implemented in under-funded labs across the world, for classroom teaching in schools as well as by home-enthusiasts who are not part of the traditional scientific establishment.<br/>
+-	<strong>Andre Maia Chagas</strong>, University of Sussex, TReND in Africa<br/>
+-	<strong>George Kafetzis</strong>, University of Sussex, UK<br/>
+-	<strong>Samyra Salek</strong>, TReND in Africa, UK<br/>
+</p>
 <br/><br/>
 
 
 
 
 ### Demonstration Tables / Information booths:
+<br/>
 
-
+<img align="right" width="100" src="./assets/Logos/LEGOlish.png"/></img>
 · [LEGOLish-mot](http://legolish.org/authors/):
 
-“Compared to many other fluorescence methods, such as confocal microscopy, that have been used in research labs for 30 years, Light Sheet Microscopy is so simple that it can be showcased to anyone and so hopefully it can clear up the perceived mystery surrounding what goes on in the dark rooms of research institutes,” explains Julien Colombelli. And he points out that “the latest and fully motorized version of LEGOLish will enable labs to test a basic Light Sheet system before deciding to purchase a commercial system”. In the current configuration, results generated by LEGOLish cost about 200 to 1000 times less than those produced by a commercial microscope.
--	**Julien Colombeli**, Institute for Research in Biomedicine, Barcelona, Spain
+<p style='text-align: justify;'>
+“Compared to many other fluorescence methods, such as confocal microscopy, that have been used in research labs for 30 years, Light Sheet Microscopy is so simple that it can be showcased to anyone and so hopefully it can clear up the perceived mystery surrounding what goes on in the dark rooms of research institutes,” explains Julien Colombelli. And he points out that “the latest and fully motorized version of LEGOLish will enable labs to test a basic Light Sheet system before deciding to purchase a commercial system”. In the current configuration, results generated by LEGOLish cost about 200 to 1000 times less than those produced by a commercial microscope.<br/>
+-	<strong>Julien Colombeli</strong>, Institute for Research in Biomedicine, Barcelona, Spain<br/>
+</p>
 <br/><br/>
 
 
-· [Institut Pasteur FabLab](https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/)  & [Institut Pasteur CeRIS](https://openscience.pasteur.fr/):
+<img align="right" width="100" src="./assets/Logos/FLIP.png"/></img>
+· [Institut Pasteur FabLab](https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/):
 
+<p style='text-align: justify;'>
 The FabLab design and produces devices for Pasteur Researchers and help them develop their own prototypes to resolve research questions.
-The CeRIS (Centre de Ressourece en Information Scientifique) informs and advises on the goals and practices of the three major Open Science domains: Scientific Edition, sharing and documentation of Open Data, and evaluation of research standards. The CeRIS mission is to sensitise the scientific community on Open Science practices to answer national and international enquiries.
--	**Eric Nicolau**, Institut Pasteur
--	**Fanny Sebire**, Institut Pasteur
+The Institute Prototyping Hub, affiliated to the Technical Resources and Environment Department in the Technical Department is composed of the Fab Lab and the Prototyping Workshop. Our mission is to support scientists in their research and help them resolve technical issues.
+Using CAD (computer-aided design) and CAM (computer-aided manufacturing) software and mechanical elements we produce customed experimental systems using various materials (aluminium alloys, stainless steel, titanium, etc.). These components are manufactured in close collaboration with scientists to ensure they meet their needs.
+The Fab Lab at Institut Pasteur (FLIP) has tools including laser cutter, bead-blasting unit and 3D printers (FDM, SLA and DLP).<br/>
+-	<strong>Eric Nicolau</strong>, Institut Pasteur<br/>
+</p>
 <br/><br/>
 
 
+<img align="right" width="100" src="./assets/Logos/CeRIS.png"/></img>
+- [Institut Pasteur CeRIS](https://openscience.pasteur.fr/):
+
+<p style='text-align: justify;'>
+The CeRIS (Centre de Ressourece en Information Scientifique) informs and advises on the goals and practices of the three major Open Science domains: Scientific Edition, sharing and documentation of Open Data, and evaluation of research standards. The CeRIS mission is to sensitise the scientific community on Open Science practices to answer national and international enquiries.<br/>
+-	<strong>Fanny Sebire</strong>, Institut Pasteur<br/>
+</p>
+<br/><br/>
+
+
+<img align="right" width="100" src="./assets/Logos/TReND.png"/></img>
 · [TReND in Africa](https://trendinafrica.org/):
 
-TReND is a charity supporting scientific capacity building across Africa. We run cutting edge biomedical training courses, provide universities with scientific equipment, run academic volunteering and outreach schemes, and support and work with African researchers.
--	**Samyra Salek**, Trend in Africa  
+<p style='text-align: justify;'>
+TReND is a charity supporting scientific capacity building across Africa. We run cutting edge biomedical training courses, provide universities with scientific equipment, run academic volunteering and outreach schemes, and support and work with African researchers.<br/>
+-	<strong>Samyra Salek</strong>, Trend in Africa <br/>
+</p>
 <br/><br/>
 
 
+<img align="right" width="100" src="./assets/Logos/OpenEphys.png"/></img>
 · [Open Ephys](https://open-ephys.org/):
 
-Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members distributed all around the world. Our mission is to advance our understanding of the brain by promoting community ownership of the tools we use to study it. Since Open Ephys was founded in 2014, we’ve made it possible to build an entire extracellular electrophysiology rig from off-the-shelf open-source components. We are working toward a future where neuroscience labs run on open standards. This doesn’t mean that every part of your rig needs to be open source, just that common interfaces let you choose the right tool for every job. Open standards foster healthier competition and enhance creativity by allowing the best ideas to propagate without the need to reinvent any wheels.
--	**Alex Leighton**, OpenEphys
+<p style='text-align: justify;'>
+Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members distributed all around the world. Our mission is to advance our understanding of the brain by promoting community ownership of the tools we use to study it. Since Open Ephys was founded in 2014, we’ve made it possible to build an entire extracellular electrophysiology rig from off-the-shelf open-source components. We are working toward a future where neuroscience labs run on open standards. This doesn’t mean that every part of your rig needs to be open source, just that common interfaces let you choose the right tool for every job. Open standards foster healthier competition and enhance creativity by allowing the best ideas to propagate without the need to reinvent any wheels.<br/>
+-	<strong>Alex Leighton</strong>, OpenEphys<br/>
+</p>
 <br/><br/>
 
 
