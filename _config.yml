@@ -38,9 +38,9 @@ site-css: "/assets/css/fens2022.css"
 
 #cover-img: "/Logos/banner.png"
 #page-img: "/Logos/banner.png"
-navbar-img: "/Logos/banner.png"
+#navbar-img: "/Logos/banner.png"
 
-#navbar-col: "22409a"
+navbar-col: "22409a"
 # navbar-text-col: "#ffffff"
 navbar-links:
   REGISTER: "https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link"
