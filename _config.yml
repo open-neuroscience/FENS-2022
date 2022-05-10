@@ -42,7 +42,8 @@ site-css: "/assets/css/fens2022.css"
 
 
 navbar-text-col: "#FFFFFF"
-navbar-col: "22409A"
+#navbar-col: "22409A"
+navbar-col: "252670"
 navbar-links:
   REGISTER: "https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link"
   About Us: "https://open-neuroscience.com/"
