@@ -12,8 +12,8 @@ layout: home
 #share-title: "Dean Attali - R-Shiny consultant"
 #share-description: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
 #support_promo_box: true
-cover-img:
-  - "/assets/Logos/banner.png" : "Banner"
+#cover-img:
+#  - "/assets/Logos/banner.png" : "Banner"
 ---
 
 <div>
