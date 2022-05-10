@@ -237,6 +237,7 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 <h4 align="center">14:50 – 15:00 : Coffee break  </h4>
 
 ---
+<br/><br/>
 
 
 <h4> Open-Source microscopy as an efficient drive to collaboratively develop hardware, software, and techniques for advanced optical research.</h4>
@@ -262,6 +263,7 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 <h4 align="center">16:35 – 16:45: Coffee break </h4>  
 
 ---
+<br/><br/>
 
 >16:45: **Hannah Heil**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 >
