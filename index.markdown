@@ -5,8 +5,6 @@
 layout: home
 
 
-<header class="big-img intro-header" style="background-image: url("https://raw.githubusercontent.com/open-neuroscience/FENS2/main/Logos/banner.png");">
-</header>
 ---
 
 <div>
