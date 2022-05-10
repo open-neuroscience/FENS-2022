@@ -38,7 +38,7 @@ site-css: "/assets/css/fens2022.css"
 
 #cover-img: "/Logos/banner.png"
 #page-img: "/Logos/banner.png"
-nav-img: "/Logos/banner.png"
+navbar-img: "/Logos/banner.png"
 
 #navbar-col: "22409a"
 # navbar-text-col: "#ffffff"
