@@ -114,7 +114,7 @@ A 3D printed flexure translation stage. The stage is capable of sub-micron-scale
 -	<strong>Joe Kapner</strong>, University of Bath, UK
 <br/><br/>
 
-
+<br/><br/>
 · [UC2](https://open-neuroscience.com/post/uc2/):
 <img align="left" width="100" src="./assets/Logos/UC2.png"/>
 <p style='text-align: justify;'>
@@ -124,7 +124,7 @@ An open-source optical toolbox that simplifies the process of building optical s
 -	<strong>Barbora Marisikova</strong>, University of Jena, Germany
 <br/><br/>
 
-
+<br/><br/>
 · [FlyPi](https://open-labware.net/projects/flypi/):
 <img align="left" width="100" src="./assets/Logos/FlyPi.png"/>
 <p style='text-align: justify;'>
@@ -134,7 +134,7 @@ A 3D-printable open-source platform for fluorescence microscopy, optogenetics an
 -	<strong>Samyra Salek</strong>, TReND in Africa, UK
 <br/><br/>
 
-
+<br/><br/>
 ### Demonstration Tables / Information booths:
 <br/>
 
@@ -146,7 +146,7 @@ A 3D-printable open-source platform for fluorescence microscopy, optogenetics an
 -	<strong>Julien Colombeli</strong>, Institute for Research in Biomedicine, Barcelona, Spain
 <br/><br/>
 
-
+<br/><br/>
 · [Institut Pasteur FabLab](https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/):
 <img align="left" width="100" src="./assets/Logos/FLIP.png"/>
 <p style='text-align: justify;'>
@@ -157,7 +157,7 @@ The Fab Lab at Institut Pasteur (FLIP) has tools including laser cutter, bead-bl
 -	<strong>Eric Nicolau</strong>, Institut Pasteur
 <br/><br/>
 
-
+<br/><br/>
 - [Institut Pasteur CeRIS](https://openscience.pasteur.fr/):
 <img align="left" width="100" src="./assets/Logos/CeRIS.png"/>
 <p style='text-align: justify;'>
@@ -165,7 +165,7 @@ The CeRIS (Centre de Ressourece en Information Scientifique) informs and advises
 -	<strong>Fanny Sebire</strong>, Institut Pasteur
 <br/><br/>
 
-
+<br/><br/>
 · [TReND in Africa](https://trendinafrica.org/):
 <img align="left" width="100" src="./assets/Logos/TReND.png"/>
 <p style='text-align: justify;'>
@@ -173,7 +173,7 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 -	<strong>Samyra Salek</strong>, Trend in Africa
 <br/><br/>
 
-
+<br/><br/>
 · [Open Ephys](https://open-ephys.org/):
 <img align="left" width="100" src="./assets/Logos/OpenEphys.png"/>
 <p style='text-align: justify;'>
