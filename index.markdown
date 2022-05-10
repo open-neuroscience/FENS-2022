@@ -183,6 +183,7 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 
 
 ***
+<br/><br/>
 ## Afternoon session
 
 <h4> Open-Source microscopy as a tool for advanced recording in scientific education and to improve the accessibility of cutting-edge research equipment in low resource areas.</h4>
