@@ -44,6 +44,7 @@ navbar-links:
   #About Us: "/#aboutus"
   #Clients: "/#clients"
   #Open-Source: "/#portfolio"
+  About Us: "https://open-neuroscience.com/"
   Contact Us: "/contact"
 # Exclude from processing.
 # The following items will not be processed, by default.
