@@ -105,7 +105,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 <br/><br/>
 
 
-· [<h2>OpenFlexure</h2>](https://open-neuroscience.com/post/openflexure/):
+· [OpenFlexure](https://open-neuroscience.com/post/openflexure/):
 <img align="left" width="100" src="./assets/Logos/OpenFlexure.png"/>
 <p style='text-align: justify;'>
 A 3D printed flexure translation stage. The stage is capable of sub-micron-scale motion, with very small drift over time. Which makes it quite good, among other things, for time-lapse protocols that need to be done over days/weeks’ time, and under space restricted areas, such as fume hoods. Additional camera and servo motors, turns the stage into an automated microscope.</p>
