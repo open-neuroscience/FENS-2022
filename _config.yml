@@ -22,7 +22,7 @@ title: Open Source Microscopy Symposium
 email: a.maia-chagas@sussex.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Developing microscopy tools for neuroscience research and education
-baseurl: "FENS2" # the subpath of your site, e.g. /blog
+baseurl: "FENS-2022" # the subpath of your site, e.g. /blog
 url: "https://open-neuroscience.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: openneurosci
 github_username:  amchagas
@@ -48,7 +48,7 @@ footer-col: "#22409A"
 navbar-links:
   REGISTER: "https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link"
   About Us: "https://open-neuroscience.com/"
-  Contact Us: "/contact"
+  #Contact Us: "/contact"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
