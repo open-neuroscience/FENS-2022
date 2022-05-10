@@ -36,7 +36,7 @@ plugins:
 
 site-css: "/assets/css/fens2022.css"
 
-cover-img: "/assets/Logos/banner.png"
+cover-img: "./assets/Logos/banner.png"
 #page-img: "/Logos/banner.png"
 #navbar-img: "/Logos/banner.png"
 
