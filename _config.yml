@@ -45,7 +45,7 @@ site-css: "/assets/css/fens2022.css"
 avatar: "/assets/Logos/ON_thumbnail.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 
 navbar-text-col: "#FFFFFF"
