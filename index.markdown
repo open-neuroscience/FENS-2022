@@ -4,7 +4,16 @@
 
 layout: home
 
-
+#layout: page
+#title: "Hi, I'm Dean"
+#subtitle: R-Shiny Expert / Open-Source Developer / Tireless Traveller
+#css: "/assets/css/index.css"
+#share-img: /assets/Logos/banner.png
+#share-title: "Dean Attali - R-Shiny consultant"
+#share-description: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
+#support_promo_box: true
+cover-img:
+  - "/assets/Logos/banner.png" : "Banner"
 ---
 
 <div>
@@ -29,7 +38,7 @@ The symposium will take place on July 8th at the <a href="https://www.google.com
 <strong>Registration is necessary to access the campus :</strong>
 </p>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link" class="actionbtn">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link" class="actionbtn" >
   <span class="far fa-envelope" aria-hidden="true"></span>
   REGISTER
 </a>
