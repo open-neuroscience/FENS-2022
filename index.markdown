@@ -11,7 +11,7 @@ layout: home
 <h1 align="center"> Open Source Microscopy Symposium </h1>
 <h4 align="center"> Developing microscopy tools for neuroscience research and education</h4>
 <p align="right">by
-<img align="right" width="300" src="./Logos/ON.png"/></p>
+<img align="right" width="300" src=".assets/Logos/ON.png"/></p>
 <br>
 
 </div>
@@ -281,7 +281,7 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 
 
 
-<img align="center" src="./Logos/sponsors.png"/>
+<img align="center" src=".assets/Logos/sponsors.png"/>
 
 
-<img align="center"><img src="./Logos/WWN.png"/>
+<img align="center"><img src=".assets/Logos/WWN.png"/>
