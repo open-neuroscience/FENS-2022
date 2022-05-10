@@ -4,16 +4,7 @@
 
 layout: home
 
-#layout: page
-#title: "Hi, I'm Dean"
-#subtitle: R-Shiny Expert / Open-Source Developer / Tireless Traveller
-#css: "/assets/css/index.css"
-#share-img: /assets/Logos/banner.png
-#share-title: "Dean Attali - R-Shiny consultant"
-#share-description: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
-#support_promo_box: true
-#cover-img:
-#  - "/assets/Logos/banner.png" : "Banner"
+
 ---
 
 <div>
@@ -72,7 +63,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |-----------------|------------|--------------------|
 |<a href="https://openflexure.org/">OpenFlexure</a> **Richard Bowman**|<a href="http://legolish.org/authors/">LEGOLish </a> **Julien Colombeli**| <a href="https://trendinafrica.org/"> Trend in Africa</a> **Samyra Salek**|
 |<a href="https://github.com/openUC2/UC2-GIT"> UC2 </a> **Barbora Marsikova** |<a href="https://open-ephys.org/">Open Ephys</a> **Alex Leighton**| <a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" >Institut Pasteur FabLab </a> **Eric Nicolau**|
-|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> / <a href="https://open-labware.net/"> OpenLabware</a> **Andre M Chagas** | | <a href="https://www.pasteur.fr/fr/ceris" > Institut Pasteur CeRIS 	</a>& **Fanny Sebire**|
+|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> / <a href="https://open-labware.net/"> OpenLabware</a> **Andre M Chagas** |...| <a href="https://www.pasteur.fr/fr/ceris" > Institut Pasteur CeRIS 	</a>& **Fanny Sebire**|
 
 <br>
 
