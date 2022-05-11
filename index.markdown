@@ -5,7 +5,7 @@
 layout: home
 
 cover-img:
-  - "/assets/Logos/banner2.png" : "Banner"
+  - "/assets/Logos/banner2.png" : "FENS"
 
 ---
 
