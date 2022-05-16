@@ -162,7 +162,9 @@ The Fab Lab at Institut Pasteur (FLIP) has tools including laser cutter, bead-bl
 <img align="left" width="100" src="./assets/Logos/CeRIS.png"/>
 <p style='text-align: justify;'>
 The CeRIS (Centre de Ressourece en Information Scientifique) informs and advises on the goals and practices of the three major Open Science domains: Scientific Edition, sharing and documentation of Open Data, and evaluation of research standards. The CeRIS mission is to sensitise the scientific community on Open Science practices to answer national and international enquiries.</p>
--	<strong>Fanny Sebire</strong>, Institut Pasteur
+-	<strong>Anne Lassailly-Bondaz</strong>, Institut Pasteur <br/>
+-	<strong>Fanny Sebire</strong>, Institut Pasteur <br/>
+-	<strong>Marie Martin</strong>, Institut Pasteur
 <br/><br/>
 
 <br/><br/>
