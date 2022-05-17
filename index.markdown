@@ -65,7 +65,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |-----------------|------------|--------------------|
 |<a href="https://openflexure.org/">OpenFlexure</a> **Richard Bowman**|<a href="http://legolish.org/authors/">LEGOLish </a> **Julien Colombeli**| <a href="https://trendinafrica.org/"> Trend in Africa</a> **Samyra Salek**|
 |<a href="https://github.com/openUC2/UC2-GIT"> UC2 </a> **Barbora Marsikova** |<a href="https://open-ephys.org/">Open Ephys</a> **Alex Leighton**| <a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" >Institut Pasteur FabLab </a> **Eric Nicolau**|
-|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> / <a href="https://open-labware.net/"> OpenLabware</a> **Andre M Chagas** |...| <a href="https://www.pasteur.fr/fr/ceris" > Institut Pasteur CeRIS 	</a>& **Fanny Sebire**|
+|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> / <a href="https://open-labware.net/"> OpenLabware</a> **Andre M Chagas** |...| <a href="https://www.pasteur.fr/en/ceris/library" > Institut Pasteur CeRIS 	</a>& **Anne Lassailly-Bondaz**|
 
 <br>
 
@@ -158,13 +158,14 @@ The Fab Lab at Institut Pasteur (FLIP) has tools including laser cutter, bead-bl
 <br/><br/>
 
 <br/><br/>
-- [Institut Pasteur CeRIS](https://openscience.pasteur.fr/):
+- [Institut Pasteur CeRIS](https://www.pasteur.fr/en/ceris/library):
 <img align="left" width="100" src="./assets/Logos/CeRIS.png"/>
 <p style='text-align: justify;'>
-The CeRIS (Centre de Ressourece en Information Scientifique) informs and advises on the goals and practices of the three major Open Science domains: Scientific Edition, sharing and documentation of Open Data, and evaluation of research standards. The CeRIS mission is to sensitise the scientific community on Open Science practices to answer national and international enquiries.</p>
+The CeRIS (Scientific Information Resources Center) informs and advises on the goals and practices of the three major Open Science domains: scientific publications in the age of Open Access, data management and sharing, research evaluation and planning. The CeRIS mission is to sensitise the scientific community on Open Science practices to answer national and international enquiries. Their Open Science blog : https://openscience.pasteur.fr/.</p>
 -	<strong>Anne Lassailly-Bondaz</strong>, Institut Pasteur <br/>
--	<strong>Fanny Sebire</strong>, Institut Pasteur <br/>
--	<strong>Marie Martin</strong>, Institut Pasteur
+-	<strong>Marie Martin</strong>, Institut Pasteur <br/>
+-	<strong>Anne-Laure Noël</strong>, Institut Pasteur
+- Contact : hal-pasteur@pasteur.fr
 <br/><br/>
 
 <br/><br/>
@@ -255,7 +256,7 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 >- <a href="https://elifesciences.org/articles/38173"> CaImAn</a> – Open-Source scalable algorithms for calcium and voltage imaging data
 <br/><br/>
 
->16:10: **Filip Janiak**, School of Life Sciences, University of Sussex, Brighton, UK
+>16:00: **Filip Janiak**, School of Life Sciences, University of Sussex, Brighton, UK
 >
 >- <a href="https://dx.doi.org/10.1038/s41467-022-28192-0"> nTCscope</a> – A Non-Telecentric two-photon microscopy technic for 3D random access mesoscale imaging
 <br/><br/>
