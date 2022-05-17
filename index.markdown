@@ -61,11 +61,12 @@ It is our goal that by the end of the day, participants get a full picture of th
 
 <h3 align="center">Morning session 09:00-12:00 </h3>
 
-|    Workshops    | Live Demos | Information Booths |
-|-----------------|------------|--------------------|
-|<a href="https://openflexure.org/">OpenFlexure</a> **Richard Bowman**|<a href="http://legolish.org/authors/">LEGOLish </a> **Julien Colombeli**| <a href="https://trendinafrica.org/"> Trend in Africa</a> **Samyra Salek**|
-|<a href="https://github.com/openUC2/UC2-GIT"> UC2 </a> **Barbora Marsikova** |<a href="https://open-ephys.org/">Open Ephys</a> **Alex Leighton**| <a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" >Institut Pasteur FabLab </a> **Eric Nicolau**|
-|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> / <a href="https://open-labware.net/"> OpenLabware</a> **Andre M Chagas** |...| <a href="https://www.pasteur.fr/en/ceris/library" > Institut Pasteur CeRIS 	</a>& **Anne Lassailly-Bondaz**|
+|    Workshops    | Information Booths |
+|-----------------|--------------------|
+|<a href="https://openflexure.org/">OpenFlexure</a> **Richard Bowman** | <a href="https://trendinafrica.org/"> Trend in Africa</a> **Samyra Salek**|
+|<a href="https://github.com/openUC2/UC2-GIT"> UC2 </a> **Benedict Diederich** | <a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" >Institut Pasteur FabLab </a> **Eric Nicolau**|
+|<a href="http://legolish.org/authors/">LEGOLish </a> **Julien Colombeli**| <a href="https://www.pasteur.fr/en/ceris/library" > Institut Pasteur CeRIS 	</a> **Anne Lassailly-Bondaz**|
+|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a>  | <a href="https://open-labware.net/"> OpenLabware</a> **George Kafetzis**|
 
 <br>
 
@@ -176,13 +177,6 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 -	<strong>Samyra Salek</strong>, Trend in Africa
 <br/><br/>
 
-<br/><br/>
-· [Open Ephys](https://open-ephys.org/):
-<img align="left" width="100" src="./assets/Logos/OpenEphys.png"/>
-<p style='text-align: justify;'>
-Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members distributed all around the world. Our mission is to advance our understanding of the brain by promoting community ownership of the tools we use to study it. Since Open Ephys was founded in 2014, we’ve made it possible to build an entire extracellular electrophysiology rig from off-the-shelf open-source components. We are working toward a future where neuroscience labs run on open standards. This doesn’t mean that every part of your rig needs to be open source, just that common interfaces let you choose the right tool for every job. Open standards foster healthier competition and enhance creativity by allowing the best ideas to propagate without the need to reinvent any wheels.</p>
--	<strong>Alex Leighton</strong>, OpenEphys
-<br/><br/>
 
 
 ***
@@ -278,10 +272,7 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 >- <a href="https://www.biorxiv.org/content/10.1101/2021.11.03.467152v1?rss=1">DeepBacs</a> - Bacterial image analysis using open-source deep learning approaches
 <br/><br/>
 
->17:35: **Alex Leighton**, Open Ephys, Open-Source company, Portugal
->
->- Distributing and supporting <a href="https://open-ephys.org/">Open-Ephys</a>, MiniScope and other Open-Source hardware throughout the scientific community.
-<br/><br/>
+
 
 ---
 
