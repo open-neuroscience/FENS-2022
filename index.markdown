@@ -87,12 +87,11 @@ It is our goal that by the end of the day, participants get a full picture of th
 |14:20| Trend in Africa <strong>Samyra Salek</strong>|
 |14:40|<strong>--- Coffee Break ---</strong>|
 |15:00| Mini2P <strong>Edvard Moser</strong> & <strong>Weijian Zong</strong>|
-|15:45| CaImAn <strong>Andrea Giovanucci</strong>|
+|15:45| TBC - CaImAn <strong>Andrea Giovanucci</strong>|
 |16:10| nTCscope <strong>Filip Janiak</strong>|
 |16:30|<strong>--- Coffee Break ---</strong>|
 |16:45| 3D-printing in Optical microscopy for Super-Resolution Microscopy and Single-Particle Analysis <strong>Hannah Heil</strong>|
 |17:10| DeepBacs - Bacterial image analysis using open-source deep learning approaches <strong>Estibaliz Gomez de Mariscal</strong>|
-|17:35| Open Ephys - A company providing open source tools for Neurosciences <strong>Alex Leighton</strong>|
 
 <br>
 
