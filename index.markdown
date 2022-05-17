@@ -291,6 +291,7 @@ Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members d
 [Maxime Zimmermann](mailto:maxime.zimmermann@pasteur.fr) - [Institut Pasteur](https://research.pasteur.fr/en/member/maxime-zimmermann/)  
 [Andre Maia Chagas](mailto:a.maia-chagas@sussex.ac.uk) - [University of Sussex](https://sussex-neuroscience.github.io)  
 [Tom Baden](https://badenlab.org) - [University of Sussex](https://www.sussex.ac.uk/research/centres/sussex-neuroscience/)  
+[Natalie Aulner](https://research.pasteur.fr/fr/member/nathalie-aulner/) - [Institut Pasteur - Imaging Platform](https://research.pasteur.fr/fr/team/photonic-bioimaging-utechs-pbi/)
 
 <br>
 <br>
