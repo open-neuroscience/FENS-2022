@@ -66,7 +66,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |<a href="https://openflexure.org/">OpenFlexure</a> **Richard Bowman** | <a href="https://trendinafrica.org/"> Trend in Africa</a> **Samyra Salek**|
 |<a href="https://github.com/openUC2/UC2-GIT"> UC2 </a> **Benedict Diederich** | <a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" >Institut Pasteur FabLab </a> **Eric Nicolau**|
 |<a href="http://legolish.org/authors/">LEGOLish </a> **Julien Colombeli**| <a href="https://www.pasteur.fr/en/ceris/library" > Institut Pasteur CeRIS 	</a> **Anne Lassailly-Bondaz**|
-|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a>  | <a href="https://open-labware.net/"> OpenLabware</a> **George Kafetzis**|
+|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> **Andre Maia Chagas**  | <a href="https://open-labware.net/"> OpenLabware</a> **George Kafetzis**|
 
 <br>
 
