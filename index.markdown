@@ -283,10 +283,16 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 [Andre Maia Chagas](mailto:a.maia-chagas@sussex.ac.uk) - [University of Sussex](https://sussex-neuroscience.github.io)  
 [Tom Baden](https://badenlab.org) - [University of Sussex](https://www.sussex.ac.uk/research/centres/sussex-neuroscience/)  
 
-<br>
-<br>
 
 ---
+
+### sponsors
+
+[EMBO](https://www.embo.org/)
+[France BioImaging](https://france-bioimaging.org/)
+[University of Sussex](https://www.sussex.ac.uk/)
+[FocalPlane](https://focalplane.biologists.com/)
+[TReND in Africa](https://trendinafrica.org/)
 
 <img align="center" src="./assets/Logos/sponsors.png"/>
 
