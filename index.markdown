@@ -294,6 +294,8 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 [FocalPlane](https://focalplane.biologists.com/)
 [TReND in Africa](https://trendinafrica.org/)
 
+---
+
 <img align="center" src="./assets/Logos/sponsors.png"/>
 
 
