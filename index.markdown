@@ -82,16 +82,18 @@ It is our goal that by the end of the day, participants get a full picture of th
 |--|--|
 |13:00| Introduction <strong>Maxime Zimmermann</strong> & <strong>Nathalie Aulner</strong>|
 |13:20| OpenFlexure <strong>Richard Bowman</strong>|
-|13:40| UC2 <strong>Barbora Marsikova</strong>|
+|13:40| UC2 <strong>Bendedict Diederich</strong>|
 |14:00| LEGOLish <strong>Julien Collombeli</strong>|
 |14:20| Trend in Africa <strong>Samyra Salek</strong>|
 |14:40|<strong>--- Coffee Break ---</strong>|
 |15:00| Mini2P <strong>Edvard Moser</strong> & <strong>Weijian Zong</strong>|
-|15:45| TBC - CaImAn <strong>Andrea Giovanucci</strong>|
+|15:45| TBC - Mesmerize <strong>Kushal Kolar</strong>|
 |16:10| nTCscope <strong>Filip Janiak</strong>|
-|16:30|<strong>--- Coffee Break ---</strong>|
-|16:45| 3D-printing in Optical microscopy for Super-Resolution Microscopy and Single-Particle Analysis <strong>Hannah Heil</strong>|
-|17:10| DeepBacs - Bacterial image analysis using open-source deep learning approaches <strong>Estibaliz Gomez de Mariscal</strong>|
+|16:40|<strong>--- Coffee Break ---</strong>|
+|16:55| 3D-printing in Optical microscopy for Super-Resolution Microscopy and Single-Particle Analysis <strong>Hannah Heil</strong>|
+|17:20| DeepBacs - Bacterial image analysis using open-source deep learning approaches <strong>Estibaliz Gomez de Mariscal</strong>|
+|17:45| Closing remarks <strong>Andre Maia Chagas</strong>|
+|18:00| Social gathering at the local bar
 
 <br>
 
@@ -206,7 +208,7 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 <div id="openflexure-2">
 </div>
 
->13:40: **Richard Bowman**, Centre for Photonics and Photonic Materials University of Bath, UK
+>13:40: **Joe Knapper**, Centre for Photonics and Photonic Materials University of Bath, UK
 >
 >- <a href="https://doi.org/10.1063/1.4941068">OpenFlexure</a>, - An Open-Source 3D-printed microscope, including a precise mechanical stage to move the sample and focus the optics.
 <br/><br/>
@@ -222,7 +224,7 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 <div id="trend">
 </div>
 
->14:25: **Samyra Salek**, TReND in Africa, NGO, UK
+>14:20: **Samyra Salek**, TReND in Africa, NGO, UK
 >
 >- <a href="https://trendinafrica.org/">TReND in Africa</a> – A charity supporting scientific capacity building across Africa and promoting Open-Science to help improve the scientific output on the continent.  
 <br/><br/>
@@ -230,7 +232,7 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 ---
 
-<h4 align="center">14:50 – 15:00 : Coffee break  </h4>
+<h4 align="center">14:40 – 15:00 : Coffee break  </h4>
 
 ---
 <br/><br/>
@@ -244,31 +246,36 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 >- <a href="https://doi.org/10.1016/j.cell.2022.02.017"> Mini2P</a> – An Open-Source miniature brain microscope allowing large-scale two-photon calcium imaging in freely moving mice
 <br/><br/>
 
->15:45: **Andrea Giovanucci**, Department of Biomedical Engineering, University of North Carolina, US
+>15:45: **Kushal Kolar**, Department of Biomedical Engineering, University of North Carolina, US
 >
->- <a href="https://elifesciences.org/articles/38173"> CaImAn</a> – Open-Source scalable algorithms for calcium and voltage imaging data
+>- <a href="https://pubmed.ncbi.nlm.nih.gov/34772921/"> Mesmerize</a> – is a dynamically adaptable user-friendly analysis platform for 2D and 3D calcium imaging data
 <br/><br/>
 
->16:00: **Filip Janiak**, School of Life Sciences, University of Sussex, Brighton, UK
+>16:10: **Filip Janiak**, School of Life Sciences, University of Sussex, Brighton, UK
 >
 >- <a href="https://dx.doi.org/10.1038/s41467-022-28192-0"> nTCscope</a> – A Non-Telecentric two-photon microscopy technic for 3D random access mesoscale imaging
 <br/><br/>
 
 ---
 
-<h4 align="center">16:35 – 16:45: Coffee break </h4>  
+<h4 align="center">16:40 – 16:55: Coffee break </h4>  
 
 ---
 <br/><br/>
 
->16:45: **Hannah Heil**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
+>16:55: **Hannah Heil**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 >
 >- <a href="https://henriqueslab.github.io/team/2020-12-01-HH/">3D-printing in Optical microscopy for Super-Resolution Microscopy</a> and Single-Particle Analysis
 <br/><br/>
 
->17:10: **Estibaliz Gomez de Mariscal**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
+>17:20: **Estibaliz Gomez de Mariscal**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 >
 >- <a href="https://www.biorxiv.org/content/10.1101/2021.11.03.467152v1?rss=1">DeepBacs</a> - Bacterial image analysis using open-source deep learning approaches
+<br/><br/>
+
+>17:40: **Andre Maia Chagas**, University of Sussex, Brighton, UK. Open Science Coordinator at TReND in Africa
+>
+>- <a href="https://amchagas.github.io/"> Andre M. Chagas</a> - Closing remarks
 <br/><br/>
 
 
@@ -286,7 +293,7 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 ---
 
-### sponsors
+### Sponsors
 
 [EMBO](https://www.embo.org/)
 [France BioImaging](https://france-bioimaging.org/)
