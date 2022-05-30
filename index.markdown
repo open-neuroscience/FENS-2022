@@ -295,11 +295,11 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 ### Sponsors
 
-[EMBO](https://www.embo.org/)
-[France BioImaging](https://france-bioimaging.org/)
-[University of Sussex](https://www.sussex.ac.uk/)
-[FocalPlane](https://focalplane.biologists.com/)
-[TReND in Africa](https://trendinafrica.org/)
+[EMBO](https://www.embo.org/)  
+[France BioImaging](https://france-bioimaging.org/)  
+[University of Sussex](https://www.sussex.ac.uk/)  
+[FocalPlane](https://focalplane.biologists.com/)  
+[TReND in Africa](https://trendinafrica.org/)  
 
 ---
 
