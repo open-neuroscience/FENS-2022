@@ -82,7 +82,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |--|--|
 |13:00| Introduction <strong>Maxime Zimmermann</strong> & <strong>Nathalie Aulner</strong>|
 |13:20| OpenFlexure <strong>Richard Bowman</strong>|
-|13:40| UC2 <strong>Bendedict Diederich</strong>|
+|13:40| UC2 <strong>Bendedict Diederich, Eda Bingöl, Wang Haoran</strong>|
 |14:00| LEGOLish <strong>Julien Collombeli</strong>|
 |14:20| Trend in Africa <strong>Samyra Salek</strong>|
 |14:40|<strong>--- Coffee Break ---</strong>|
