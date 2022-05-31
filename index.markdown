@@ -63,8 +63,8 @@ It is our goal that by the end of the day, participants get a full picture of th
 
 |    Workshops    | Information Booths |
 |-----------------|--------------------|
-|<a href="https://openflexure.org/">OpenFlexure</a> **Richard Bowman** | <a href="https://trendinafrica.org/"> Trend in Africa</a> **Samyra Salek**|
-|<a href="https://github.com/openUC2/UC2-GIT"> UC2 </a> **Benedict Diederich** | <a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" >Institut Pasteur FabLab </a> **Eric Nicolau**|
+|<a href="https://openflexure.org/">OpenFlexure</a> **Joe Knapper** | <a href="https://trendinafrica.org/"> Trend in Africa</a> **Samyra Salek**|
+|<a href="https://github.com/openUC2/UC2-GIT"> UC2 </a> **Benedict Diederich, Eda Bingöl, Wang Haoran** | <a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" >Institut Pasteur FabLab </a> **Eric Nicolau, Tarik Najib, Eglantine Vignal**|
 |<a href="http://legolish.org/authors/">LEGOLish </a> **Julien Colombeli**| <a href="https://www.pasteur.fr/en/ceris/library" > Institut Pasteur CeRIS 	</a> **Anne Lassailly-Bondaz**|
 |<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> **Andre Maia Chagas**  | <a href="https://open-labware.net/"> OpenLabware</a> **George Kafetzis**|
 
@@ -81,8 +81,8 @@ It is our goal that by the end of the day, participants get a full picture of th
 |  |  |
 |--|--|
 |13:00| Introduction <strong>Maxime Zimmermann</strong> & <strong>Nathalie Aulner</strong>|
-|13:20| OpenFlexure <strong>Richard Bowman</strong>|
-|13:40| UC2 <strong>Bendedict Diederich, Eda Bingöl, Wang Haoran</strong>|
+|13:20| OpenFlexure <strong>Joe Knapper</strong>|
+|13:40| UC2 <strong>Bendedict Diederich</strong>|
 |14:00| LEGOLish <strong>Julien Collombeli</strong>|
 |14:20| Trend in Africa <strong>Samyra Salek</strong>|
 |14:40|<strong>--- Coffee Break ---</strong>|
