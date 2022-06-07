@@ -2,7 +2,7 @@
 layout: page
 title: Estibaliz
 subtitle: subtitle
-permalink: /uc2
+permalink: /estibaliz
 ---
 
 
