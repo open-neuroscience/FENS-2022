@@ -86,7 +86,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |14:00| LEGOLish <strong>Julien Collombeli</strong>|
 |14:20| Trend in Africa <strong>Samyra Salek</strong>|
 |14:40|<strong>--- Coffee Break ---</strong>|
-|15:00| Mini2P <strong>Edvard Moser</strong> & <strong>Weijian Zong</strong>|
+|15:00| <a href="https://open-neuroscience.com/FENS-2022/hannah">Mini2P</a> <strong>Edvard Moser</strong> & <strong>Weijian Zong</strong>|
 |15:45| Mesmerize <strong>Kushal Kolar</strong>|
 |16:10| nTCscope <strong>Filip Janiak</strong>|
 |16:40|<strong>--- Coffee Break ---</strong>|
