@@ -55,7 +55,7 @@ footer-col: "#22409A"
 navbar-links:
   REGISTER: "https://docs.google.com/forms/d/e/1FAIpQLScsfWsq9od2SoF98W8G5XOF5b1mVVtEqKxYJe-auHA5HPx4oQ/viewform?usp=sf_link"
   About Us: "https://open-neuroscience.com/"
-  UC2: /uc2
+  #UC2: /uc2
   #Contact Us: "/contact"
 
 # Exclude from processing.
