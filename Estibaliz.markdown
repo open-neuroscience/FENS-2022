@@ -31,12 +31,14 @@ I'm interested in understanding cell-level biology using bioimage analysis. My r
 </p>
 
 <p style='text-align: justify;'>
-Previously, I developed methods to process TEM images and phase-contrast time-lapse movies to contribute to the characterization of cancer cell motility. I have also conceived new biostatistical approaches to analyse big data. I'm also one of the creators of deepImageJ, an environment to bridge deep-learning to ImageJ. 
+Previously, I developed methods to process TEM images and phase-contrast time-lapse movies to contribute to the characterization of cancer cell motility. I have also conceived new biostatistical approaches to analyse big data. I'm also one of the creators of deepImageJ, an environment to bridge deep-learning to ImageJ.
 </p>
 
 <p style='text-align: justify;'>
 A crucial part of my work and dedication is to make computational tools accessible (open and user-friendly) and reusable, and train non-experts to benefit from them. As a postdoc in Ridardo's lab I'll be learning (a lot) of super-resolution microscopy, and building novel machine-learning methodologies applied to it.
 </p>
+
+---
 
 <img align="center" src="./assets/Logos/sponsors.png"/>
 
