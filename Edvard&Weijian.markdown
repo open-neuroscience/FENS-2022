@@ -2,7 +2,7 @@
 layout: page
 title: Edvard Moser & Weijian Zong
 subtitle: Development of Machine-Learning Guided Super-Resolution Microscopy
-permalink: /edvard
+permalink: /edvard&weijian
 ---
 
 <img align="right" width="200" src="./assets/Thumbnails/Edvard.jpg"/>
