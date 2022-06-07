@@ -90,8 +90,8 @@ It is our goal that by the end of the day, participants get a full picture of th
 |15:45| Mesmerize <strong>Kushal Kolar</strong>|
 |16:10| nTCscope <strong>Filip Janiak</strong>|
 |16:40|<strong>--- Coffee Break ---</strong>|
-|16:55| Open technologies for Super-Resolution in BioImaging <strong>Hannah Heil</strong>|
-|17:20| FAIRy Deep Learning for BioImage Analysis <strong>Estibaliz Gomez de Mariscal</strong>|
+|16:55| <a href="https://open-neuroscience.com/FENS-2022/hannah">Open technologies for Super-Resolution in BioImaging </a> <strong>Hannah Heil</strong>|
+|17:20| <a href="https://open-neuroscience.com/FENS-2022/estibaliz">FAIRy Deep Learning for BioImage Analysis <strong>Estibaliz Gomez de Mariscal</strong></a>|
 |17:45| Closing remarks <strong>Andre Maia Chagas</strong>|
 |18:00| Social gathering at the local bar
 
