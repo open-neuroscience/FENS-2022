@@ -82,7 +82,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |--|--|
 |13:00| Introduction <strong>Maxime Zimmermann</strong> & <strong>Nathalie Aulner</strong>|
 |13:20| OpenFlexure <strong>Joe Knapper</strong>|
-|13:40| UC2 <strong>Bendedict Diederich</strong>|
+|13:40| UC2 <strong>Benedict Diederich</strong>|
 |14:00| LEGOLish <strong>Julien Collombeli</strong>|
 |14:20| Trend in Africa <strong>Samyra Salek</strong>|
 |14:40|<strong>--- Coffee Break ---</strong>|
@@ -243,7 +243,8 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 >15:00: **Edvard Moser** / **Weijian Zong**, Kavli Institute for Systems Neuroscience and Centre for Neural Computation, Norwegian University of Science and Technology (NTNU), Trondheim, Norway
 >
->- <a href="https://doi.org/10.1016/j.cell.2022.02.017"> Mini2P</a> – An Open-Source miniature brain microscope allowing large-scale two-photon calcium imaging in freely moving mice
+>- <a href="https://doi.org/10.1016/j.cell.2022.02.017"> Mini2P</a> – An Open-Source miniature brain microscope allowing large-scale two-photon calcium imaging in freely moving mice  
+<a href="https://open-neuroscience.com/FENS-2022/edvard&weijian">Abstract</a>
 <br/><br/>
 
 >15:45: **Kushal Kolar**, Department of Biomedical Engineering, University of North Carolina, US
