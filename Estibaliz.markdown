@@ -7,8 +7,7 @@ permalink: /estibaliz
 
 <img align="right" width="200" src="./assets/Thumbnails/Estibaliz.jpg"/>
 
-Friday 8th of July - 17:20
-
+Friday 8th of July - 17:20  
 <strong> FAIRy Deep Learning for BioImage Analysis </strong>
 
 <p style='text-align: justify;'>
