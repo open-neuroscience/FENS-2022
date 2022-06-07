@@ -35,7 +35,7 @@ Previously, I developed methods to process TEM images and phase-contrast time-la
 </p>
 
 <p style='text-align: justify;'>
-A crucial part of my work and dedication is to make computational tools accessible (open and user-friendly) and reusable, and train non-experts to benefit from them. As a postdoc in Ridardo's lab I'll be learning (a lot) of super-resolution microscopy, and building novel machine-learning methodologies applied to it.
+A crucial part of my work and dedication is to make computational tools accessible (open and user-friendly) and reusable, and train non-experts to benefit from them. As a postdoc in Ricardo's lab I'll be learning (a lot) of super-resolution microscopy, and building novel machine-learning methodologies applied to it.
 </p>
 
 ---
