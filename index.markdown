@@ -200,7 +200,7 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 <div id="UC2-2">
 </div>
 
->13:20: **Barbora Marsikova**, Institute for photonic technologies, University of Jena, Germany
+>13:20: **Benedich Diederich**, Institute for photonic technologies, University of Jena, Germany
 >
 >- <a href="https://www.nature.com/articles/s41467-020-19447-9#citeas">UC2</a> – An Open-Source Optical Toolbox for Multi-Modal Imaging
 <br/><br/>
