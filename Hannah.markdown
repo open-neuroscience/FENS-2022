@@ -7,7 +7,7 @@ permalink: /hannah
 
 <img align="right" width="200" src="./assets/Thumbnails/Hannah.jpg"/>
 
-Friday 8th of July - 16:55
+Friday 8th of July - 16:55  
 <strong> Open technologies for Super-Resolution in BioImaging </strong>
 
 <p style='text-align: justify;'>
