@@ -265,13 +265,16 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 >16:55: **Hannah Heil**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 >
->- <a href="https://henriqueslab.github.io/team/2020-12-01-HH/">Open technologies for Super-Resolution in BioImaging</a> and Single-Particle Analysis
+>- <a href="https://henriqueslab.github.io/team/2020-12-01-HH/">Open technologies for Super-Resolution in BioImaging</a> and Single-Particle Analysis  
+<a href="https://open-neuroscience.com/FENS-2022/hannah">Abstract</a>
 <br/><br/>
 
 >17:20: **Estibaliz Gomez de Mariscal**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 >
->- <a href="https://www.biorxiv.org/content/10.1101/2021.11.03.467152v1?rss=1">DeepBacs</a> - Bacterial image analysis using open-source deep learning approaches
+>- <a href="https://www.biorxiv.org/content/10.1101/2021.11.03.467152v1?rss=1">DeepBacs</a> - Bacterial image analysis using open-source deep learning approaches  
+<a href="https://open-neuroscience.com/FENS-2022/estibaliz">Abstract</a>
 <br/><br/>
+
 
 >17:40: **Andre Maia Chagas**, University of Sussex, Brighton, UK. Open Science Coordinator at TReND in Africa
 >
