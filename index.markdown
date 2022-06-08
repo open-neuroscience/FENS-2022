@@ -81,17 +81,17 @@ It is our goal that by the end of the day, participants get a full picture of th
 |  |  |
 |--|--|
 |13:00| Introduction <strong>Maxime Zimmermann</strong> & <strong>Nathalie Aulner</strong>|
-|13:20| OpenFlexure <strong>Joe Knapper</strong>|
-|13:40| <a href="https://open-neuroscience.com/FENS-2022/uc2">UC2</a> <strong>Benedict Diederich</strong>|
+|13:20| <a href="https://open-neuroscience.com/FENS-2022/openflexure"> OpenFlexure </a> <strong>Joe Knapper</strong>|
+|13:40| <a href="https://open-neuroscience.com/FENS-2022/uc2"> UC2 </a> <strong>Benedict Diederich</strong>|
 |14:00| LEGOLish <strong>Julien Collombeli</strong>|
 |14:20| Trend in Africa <strong>Samyra Salek</strong>|
 |14:40|<strong>--- Coffee Break ---</strong>|
-|15:00| <a href="https://open-neuroscience.com/FENS-2022/edvard&weijian">Mini2P</a> <strong>Edvard Moser</strong> & <strong>Weijian Zong</strong>|
-|15:45| <a href="https://open-neuroscience.com/FENS-2022/kushal">Mesmerize <strong>Kushal Kolar</strong>|
-|16:10| <a href="https://open-neuroscience.com/FENS-2022/filip">nTCscope</a> <strong>Filip Janiak</strong>|
+|15:00| <a href="https://open-neuroscience.com/FENS-2022/edvard&weijian"> Mini2P </a> <strong>Edvard Moser</strong> & <strong>Weijian Zong</strong>|
+|15:45| <a href="https://open-neuroscience.com/FENS-2022/kushal"> Mesmerize </a> <strong>Kushal Kolar</strong>|
+|16:10| <a href="https://open-neuroscience.com/FENS-2022/filip"> nTCscope </a> <strong>Filip Janiak</strong>|
 |16:40| <strong>--- Coffee Break ---</strong>|
-|16:55| <a href="https://open-neuroscience.com/FENS-2022/hannah">Open technologies for Super-Resolution in BioImaging </a> <strong>Hannah Heil</strong>|
-|17:20| <a href="https://open-neuroscience.com/FENS-2022/estibaliz">FAIRy Deep Learning for BioImage Analysis</a> <strong>Estibaliz Gomez de Mariscal</strong>|
+|16:55| <a href="https://open-neuroscience.com/FENS-2022/hannah"> Open technologies for Super-Resolution in BioImaging </a> <strong>Hannah Heil</strong>|
+|17:20| <a href="https://open-neuroscience.com/FENS-2022/estibaliz"> FAIRy Deep Learning for BioImage Analysis </a> <strong>Estibaliz Gomez de Mariscal</strong>|
 |17:45| <a href="https://open-neuroscience.com/FENS-2022/estibaliz">Closing remarks</a> <strong>Andre Maia Chagas</strong>|
 |18:00| Social gathering at the local bar
 
@@ -202,7 +202,8 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 >13:20: **Benedich Diederich**, Institute for photonic technologies, University of Jena, Germany
 >
->- <a href="https://www.nature.com/articles/s41467-020-19447-9#citeas">UC2</a> – An Open-Source Optical Toolbox for Multi-Modal Imaging
+>- <a href="https://www.nature.com/articles/s41467-020-19447-9#citeas">UC2</a> – An Open-Source Optical Toolbox for Multi-Modal Imaging  
+<a href="https://open-neuroscience.com/FENS-2022/uc2">Abstract</a>
 <br/><br/>
 
 <div id="openflexure-2">
@@ -219,7 +220,8 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 >14:00: **Julien Colombeli**, Institute for Research in Biomedicine, Barcelona, Spain
 >
->- <a href="http://legolish.org/authors/">LEGOLish</a> – Building a motorised research light sheet microscope from Lego blocks
+>- <a href="http://legolish.org/authors/">LEGOLish</a> – Building a motorised research light sheet microscope from Lego blocks  
+<a href="https://open-neuroscience.com/FENS-2022/julien">Abstract</a>
 <br/><br/>
 
 <div id="trend">
@@ -227,7 +229,8 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 >14:20: **Samyra Salek**, TReND in Africa, NGO, UK
 >
->- <a href="https://trendinafrica.org/">TReND in Africa</a> – A charity supporting scientific capacity building across Africa and promoting Open-Science to help improve the scientific output on the continent.  
+>- <a href="https://trendinafrica.org/">TReND in Africa</a> – A charity supporting scientific capacity building across Africa and promoting Open-Science to help improve the scientific output on the continent.    
+<a href="https://open-neuroscience.com/FENS-2022/samyra">Abstract</a>
 <br/><br/>
 
 
