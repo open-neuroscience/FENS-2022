@@ -254,7 +254,7 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 >16:10: **Filip Janiak**, School of Life Sciences, University of Sussex, Brighton, UK
 >
->- <a href="https://dx.doi.org/10.1038/s41467-022-28192-0"> nTCscope</a> – A Non-Telecentric two-photon microscopy technic for 3D random access mesoscale imaging
+>- <a href="https://dx.doi.org/10.1038/s41467-022-28192-0"> nTCscope</a> – A Non-Telecentric two-photon microscopy technic for 3D random access mesoscale imaging  
 <a href="https://open-neuroscience.com/FENS-2022/filip">Abstract</a>
 <br/><br/>
 
