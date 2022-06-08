@@ -249,7 +249,8 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 >15:45: **Kushal Kolar**, Department of Biomedical Engineering, University of North Carolina, US
 >
->- <a href="https://pubmed.ncbi.nlm.nih.gov/34772921/"> Mesmerize</a> – is a dynamically adaptable user-friendly analysis platform for 2D and 3D calcium imaging data
+>- <a href="https://pubmed.ncbi.nlm.nih.gov/34772921/"> Mesmerize</a> – is a dynamically adaptable user-friendly analysis platform for 2D and 3D calcium imaging data  
+<a href="https://open-neuroscience.com/FENS-2022/kushal">Abstract</a>
 <br/><br/>
 
 >16:10: **Filip Janiak**, School of Life Sciences, University of Sussex, Brighton, UK
