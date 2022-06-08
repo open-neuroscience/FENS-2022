@@ -66,7 +66,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |<a href="https://openflexure.org/">OpenFlexure</a> **Joe Knapper** | <a href="https://trendinafrica.org/"> Trend in Africa</a> **Samyra Salek**|
 |<a href="https://github.com/openUC2/UC2-GIT"> UC2 </a> **Benedict Diederich, Eda Bingöl, Wang Haoran** | <a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" >Institut Pasteur FabLab </a> **Eric Nicolau, Tarik Najib, Eglantine Vignal**|
 |<a href="http://legolish.org/authors/">LEGOLish </a> **Julien Colombeli**| <a href="https://www.pasteur.fr/en/ceris/library" > Institut Pasteur CeRIS 	</a> **Anne Lassailly-Bondaz**|
-|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> **Andre Maia Chagas**  | <a href="https://open-labware.net/"> OpenLabware</a> **George Kafetzis**|
+|<a href="https://open-labware.net/projects/flypi/"> FlyPi</a> **Andre Maia Chagas**  | <a href="https://open-neuroscience.com/FENS-2022/openlabware"> OpenLabware</a> **George Kafetzis**|
 
 <br>
 
@@ -255,6 +255,7 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 >16:10: **Filip Janiak**, School of Life Sciences, University of Sussex, Brighton, UK
 >
 >- <a href="https://dx.doi.org/10.1038/s41467-022-28192-0"> nTCscope</a> – A Non-Telecentric two-photon microscopy technic for 3D random access mesoscale imaging
+<a href="https://open-neuroscience.com/FENS-2022/filip">Abstract</a>
 <br/><br/>
 
 ---
