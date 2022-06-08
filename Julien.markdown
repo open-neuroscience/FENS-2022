@@ -33,10 +33,6 @@ When the sample is translated, more images are acquired and a 3D volume can be r
 
 Find out more about <a href="http://legolish.org/"> LEGOlish </a>
 
-<p style='text-align: justify;'>
-Coming from a background of semiconductor physics and nanofabrication switched over to the Biophysics and fluorescence microscopy field for my Master studies and my PhD. I love working in an interdisciplinary team to study cell biology by combining biophotonics and high-end microscopy. In the Henriques Lab I will establish automated and intelligent super-resolution microscopy to study host pathogen interactions.
-</p>
-
 ---
 
 <img align="center" src="./assets/Logos/sponsors.png"/>
