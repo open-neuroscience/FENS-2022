@@ -108,33 +108,39 @@ It is our goal that by the end of the day, participants get a full picture of th
 
 
 · [OpenFlexure](https://open-neuroscience.com/post/openflexure/):
-<img align="left" width="100" src="./assets/Logos/OpenFlexure.png"/>
+
 <p style='text-align: justify;'>
-A 3D printed flexure translation stage. The stage is capable of sub-micron-scale motion, with very small drift over time. Which makes it quite good, among other things, for time-lapse protocols that need to be done over days/weeks’ time, and under space restricted areas, such as fume hoods. Additional camera and servo motors, turns the stage into an automated microscope.</p>
+A 3D printed flexure translation stage. The stage is capable of sub-micron-scale motion, with very small drift over time. Which makes it quite good, among other things, for time-lapse protocols that need to be done over days/weeks’ time, and under space restricted areas, such as fume hoods. Additional camera and servo motors, turns the stage into an automated microscope.<img align="right" width="100" src="./assets/Logos/OpenFlexure.png"/></p>
+
 -	<strong>Richard Bowman</strong>, University of Bath, UK <br/>
 -	<strong>Julian Stirling</strong>, University of Bath, UK <br/>
 -	<strong>Joe Kapner</strong>, University of Bath, UK
 <br/><br/>
 
+
 <br/><br/>
 · [UC2](https://open-neuroscience.com/post/uc2/):
-<img align="left" width="100" src="./assets/Logos/UC2.png"/>
+
 <p style='text-align: justify;'>
-An open-source optical toolbox that simplifies the process of building optical setups, by combining 3D-printed cubes, each holding a specific component (e.g. lens, mirror) on a magnetic square-grid baseplate. The use of widely available consumables and 3D printing, together with documentation and software, offers an extremely low-cost and accessible alternative for both education and research areas.</p>
+An open-source optical toolbox that simplifies the process of building optical setups, by combining 3D-printed cubes, each holding a specific component (e.g. lens, mirror) on a magnetic square-grid baseplate. The use of widely available consumables and 3D printing, together with documentation and software, offers an extremely low-cost and accessible alternative for both education and research areas.<img align="right" width="100" src="./assets/Logos/UC2.png"/></p>
+
 -	<strong>Benedict Diederich</strong>, Leibniz Institute of Photonic Technology, University of Jena <br/>
 -	<strong>Rene Richter</strong>, Leibniz Institute of Photonic Technology, Germany <br/>
 -	<strong>Barbora Marisikova</strong>, University of Jena, Germany
 <br/><br/>
 
+
 <br/><br/>
 · [FlyPi](https://open-labware.net/projects/flypi/):
-<img align="left" width="100" src="./assets/Logos/FlyPi.png"/>
+
 <p style='text-align: justify;'>
-A 3D-printable open-source platform for fluorescence microscopy, optogenetics and accurate temperature control. Designed for flexibiliy and low-cost, the “FlyPi” is an optical microscope designed for behavioural work with fruit flies, zebrafish or C. elegans. The system is based on a Raspberry Pi with camera, an Arduino microcontroller and a range of off-the-shelf electronic parts. A modular design provides for flexible control of a range of peripherals including options for optogenetic and thermogenetic stimulation and fluorescence microscopy. All mechanical parts are 3-D printed which includes a range of manual or motorised micropositioning options. The basic setup can be put together for below 100€. The low price means that it can be implemented in under-funded labs across the world, for classroom teaching in schools as well as by home-enthusiasts who are not part of the traditional scientific establishment.</p>
+A 3D-printable open-source platform for fluorescence microscopy, optogenetics and accurate temperature control. Designed for flexibiliy and low-cost, the “FlyPi” is an optical microscope designed for behavioural work with fruit flies, zebrafish or C. elegans. The system is based on a Raspberry Pi with camera, an Arduino microcontroller and a range of off-the-shelf electronic parts. A modular design provides for flexible control of a range of peripherals including options for optogenetic and thermogenetic stimulation and fluorescence microscopy. All mechanical parts are 3-D printed which includes a range of manual or motorised micropositioning options. The basic setup can be put together for below 100€. The low price means that it can be implemented in under-funded labs across the world, for classroom teaching in schools as well as by home-enthusiasts who are not part of the traditional scientific establishment.<img align="right" width="100" src="./assets/Logos/FlyPi.png"/></p>
+
 -	<strong>Andre Maia Chagas</strong>, University of Sussex, TReND in Africa <br/>
 -	<strong>George Kafetzis</strong>, University of Sussex, UK <br/>
 -	<strong>Samyra Salek</strong>, TReND in Africa, UK
 <br/><br/>
+
 
 <br/><br/>
 ### Demonstration Tables / Information booths:
@@ -142,40 +148,49 @@ A 3D-printable open-source platform for fluorescence microscopy, optogenetics an
 
 
 · [LEGOLish-mot](http://legolish.org/authors/):
-<img align="left" width="100" src="./assets/Logos/LEGO.png"/>
+
 <p style='text-align: justify;'>
-“Compared to many other fluorescence methods, such as confocal microscopy, that have been used in research labs for 30 years, Light Sheet Microscopy is so simple that it can be showcased to anyone and so hopefully it can clear up the perceived mystery surrounding what goes on in the dark rooms of research institutes,” explains Julien Colombelli. And he points out that “the latest and fully motorized version of LEGOLish will enable labs to test a basic Light Sheet system before deciding to purchase a commercial system”. In the current configuration, results generated by LEGOLish cost about 200 to 1000 times less than those produced by a commercial microscope.</p>
+“Compared to many other fluorescence methods, such as confocal microscopy, that have been used in research labs for 30 years, Light Sheet Microscopy is so simple that it can be showcased to anyone and so hopefully it can clear up the perceived mystery surrounding what goes on in the dark rooms of research institutes,” explains Julien Colombelli. And he points out that “the latest and fully motorized version of LEGOLish will enable labs to test a basic Light Sheet system before deciding to purchase a commercial system”. In the current configuration, results generated by LEGOLish cost about 200 to 1000 times less than those produced by a commercial microscope.<img align="right" width="100" src="./assets/Logos/LEGO.png"/></p>
+
 -	<strong>Julien Colombeli</strong>, Institute for Research in Biomedicine, Barcelona, Spain
 <br/><br/>
 
 <br/><br/>
 · [Institut Pasteur FabLab](https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/):
-<img align="left" width="100" src="./assets/Logos/FLIP.png"/>
+
 <p style='text-align: justify;'>
 The FabLab design and produces devices for Pasteur Researchers and help them develop their own prototypes to resolve research questions.
 The Institute Prototyping Hub, affiliated to the Technical Resources and Environment Department in the Technical Department is composed of the Fab Lab and the Prototyping Workshop. Our mission is to support scientists in their research and help them resolve technical issues.
 Using CAD (computer-aided design) and CAM (computer-aided manufacturing) software and mechanical elements we produce customed experimental systems using various materials (aluminium alloys, stainless steel, titanium, etc.). These components are manufactured in close collaboration with scientists to ensure they meet their needs.
-The Fab Lab at Institut Pasteur (FLIP) has tools including laser cutter, bead-blasting unit and 3D printers (FDM, SLA and DLP).</p>
+The Fab Lab at Institut Pasteur (FLIP) has tools including laser cutter, bead-blasting unit and 3D printers (FDM, SLA and DLP).<img align="right" width="100" src="./assets/Logos/FLIP.png"/></p>
+
 -	<strong>Eric Nicolau</strong>, Institut Pasteur
+-	<strong>Tarik Najib</strong>, Institut Pasteur
+-	<strong>Eglantine Vignal</strong>, Institut Pasteur
 <br/><br/>
+
 
 <br/><br/>
 - [Institut Pasteur CeRIS](https://www.pasteur.fr/en/ceris/library):
-<img align="left" width="100" src="./assets/Logos/CeRIS.png"/>
+
 <p style='text-align: justify;'>
-The CeRIS (Scientific Information Resources Center) informs and advises on the goals and practices of the three major Open Science domains: scientific publications in the age of Open Access, data management and sharing, research evaluation and planning. The CeRIS mission is to sensitise the scientific community on Open Science practices to answer national and international enquiries. Their Open Science blog : https://openscience.pasteur.fr/.</p>
+The CeRIS (Scientific Information Resources Center) informs and advises on the goals and practices of the three major Open Science domains: scientific publications in the age of Open Access, data management and sharing, research evaluation and planning. The CeRIS mission is to sensitise the scientific community on Open Science practices to answer national and international enquiries. Their Open Science blog : https://openscience.pasteur.fr/.<img align="right" width="100" src="./assets/Logos/CeRIS.png"/></p>
+
 -	<strong>Anne Lassailly-Bondaz</strong>, Institut Pasteur <br/>
 -	<strong>Marie Martin</strong>, Institut Pasteur <br/>
 -	<strong>Anne-Laure Noël</strong>, Institut Pasteur
 - Contact : hal-pasteur@pasteur.fr
 <br/><br/>
 
+
 <br/><br/>
 · [TReND in Africa](https://trendinafrica.org/):
-<img align="left" width="100" src="./assets/Logos/TReND.png"/>
+
 <p style='text-align: justify;'>
-TReND is a charity supporting scientific capacity building across Africa. We run cutting edge biomedical training courses, provide universities with scientific equipment, run academic volunteering and outreach schemes, and support and work with African researchers.</p>
+TReND is a charity supporting scientific capacity building across Africa. We run cutting edge biomedical training courses, provide universities with scientific equipment, run academic volunteering and outreach schemes, and support and work with African researchers.<img align="right" width="100" src="./assets/Logos/TReND.png"/></p>
+
 -	<strong>Samyra Salek</strong>, Trend in Africa
+-	<strong>Andre Maia Chagas</strong>, Open Neuroscience, University of Sussex, Trend in Africa
 <br/><br/>
 
 
