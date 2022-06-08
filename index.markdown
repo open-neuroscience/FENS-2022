@@ -88,7 +88,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |14:40|<strong>--- Coffee Break ---</strong>|
 |15:00| <a href="https://open-neuroscience.com/FENS-2022/edvard&weijian">Mini2P</a> <strong>Edvard Moser</strong> & <strong>Weijian Zong</strong>|
 |15:45| Mesmerize <strong>Kushal Kolar</strong>|
-|16:10| nTCscope <strong>Filip Janiak</strong>|
+|16:10| <a href="https://open-neuroscience.com/FENS-2022/filip">nTCscope</a> <strong>Filip Janiak</strong>|
 |16:40|<strong>--- Coffee Break ---</strong>|
 |16:55| <a href="https://open-neuroscience.com/FENS-2022/hannah">Open technologies for Super-Resolution in BioImaging </a> <strong>Hannah Heil</strong>|
 |17:20| <a href="https://open-neuroscience.com/FENS-2022/estibaliz">FAIRy Deep Learning for BioImage Analysis</a> <strong>Estibaliz Gomez de Mariscal</strong>|
