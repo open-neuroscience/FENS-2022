@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Andre Maia Chagas
-subtitle: Open Science Coordinator
+subtitle: Open Science Coordinator at TReND in Africa
 permalink: /andre
 ---
 
