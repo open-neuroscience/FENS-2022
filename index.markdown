@@ -210,7 +210,8 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 >13:40: **Joe Knapper**, Centre for Photonics and Photonic Materials University of Bath, UK
 >
->- <a href="https://doi.org/10.1063/1.4941068">OpenFlexure</a>, - An Open-Source 3D-printed microscope, including a precise mechanical stage to move the sample and focus the optics.
+>- <a href="https://doi.org/10.1063/1.4941068">OpenFlexure</a>, - An Open-Source 3D-printed microscope, including a precise mechanical stage to move the sample and focus the optics.  
+<a href="https://open-neuroscience.com/FENS-2022/openflexure">Abstract</a>
 <br/><br/>
 
 <div id="legolish">
