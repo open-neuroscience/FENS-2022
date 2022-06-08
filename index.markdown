@@ -82,7 +82,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |--|--|
 |13:00| Introduction <strong>Maxime Zimmermann</strong> & <strong>Nathalie Aulner</strong>|
 |13:20| OpenFlexure <strong>Joe Knapper</strong>|
-|13:40| UC2 <strong>Benedict Diederich</strong>|
+|13:40| <a href="https://open-neuroscience.com/FENS-2022/uc2">UC2 <strong>Benedict Diederich</strong>|
 |14:00| LEGOLish <strong>Julien Collombeli</strong>|
 |14:20| Trend in Africa <strong>Samyra Salek</strong>|
 |14:40|<strong>--- Coffee Break ---</strong>|
@@ -92,7 +92,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |16:40|<strong>--- Coffee Break ---</strong>|
 |16:55| <a href="https://open-neuroscience.com/FENS-2022/hannah">Open technologies for Super-Resolution in BioImaging </a> <strong>Hannah Heil</strong>|
 |17:20| <a href="https://open-neuroscience.com/FENS-2022/estibaliz">FAIRy Deep Learning for BioImage Analysis</a> <strong>Estibaliz Gomez de Mariscal</strong>|
-|17:45| Closing remarks <strong>Andre Maia Chagas</strong>|
+|17:45| <a href="https://open-neuroscience.com/FENS-2022/estibaliz">Closing remarks</a> <strong>Andre Maia Chagas</strong>|
 |18:00| Social gathering at the local bar
 
 <br>
