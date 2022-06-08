@@ -189,8 +189,8 @@ The CeRIS (Scientific Information Resources Center) informs and advises on the g
 <p style='text-align: justify;'>
 TReND is a charity supporting scientific capacity building across Africa. We run cutting edge biomedical training courses, provide universities with scientific equipment, run academic volunteering and outreach schemes, and support and work with African researchers.<img align="right" width="100" src="./assets/Logos/TReND.png"/></p>
 
--	<strong>Samyra Salek</strong>, Trend in Africa
--	<strong>Andre Maia Chagas</strong>, Open Neuroscience, University of Sussex, Trend in Africa
+-	<strong>Samyra Salek</strong>, TReNDin Africa
+-	<strong>Andre Maia Chagas</strong>, Open Neuroscience, University of Sussex, TReND in Africa
 <br/><br/>
 
 
