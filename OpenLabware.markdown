@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenLabware
-subtitle: subtitle
+subtitle: George Kafetzis
 permalink: /openlabware
 ---
 
