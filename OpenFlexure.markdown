@@ -5,7 +5,7 @@ subtitle: Joe Knapper
 permalink: /openflexure
 ---
 
-<img align="right" width="200" src="./assets/Thumbnails/Joe.jpg"/>
+<img align="right" width="200" src="./assets/Thumbnails/Joe.JPG"/>
 
 Friday 8th of July 9:00 - 12:00  
 <strong>OpenFlexure workshop</strong>
