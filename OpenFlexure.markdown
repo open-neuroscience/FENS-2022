@@ -10,7 +10,7 @@ permalink: /openflexure
 Friday 8th of July 9:00 - 12:00  
 <strong>OpenFlexure workshop</strong>
 
-Friday 8th of July 13:40
+Friday 8th of July 13:20
 <strong>OpenFlexure</strong>
 
 <p style='text-align: justify;'>
