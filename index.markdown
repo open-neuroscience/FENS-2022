@@ -84,7 +84,7 @@ It is our goal that by the end of the day, participants get a full picture of th
 |13:20| <a href="https://open-neuroscience.com/FENS-2022/openflexure"> OpenFlexure </a> <strong>Joe Knapper</strong>|
 |13:40| <a href="https://open-neuroscience.com/FENS-2022/uc2"> UC2 </a> <strong>Benedict Diederich</strong>|
 |14:00| <a href="https://open-neuroscience.com/FENS-2022/julien"> LEGOLish </a> <strong>Julien Collombeli</strong>|
-|14:20| Trend in Africa <strong>Samyra Salek</strong>|
+|14:20| <a href="https://open-neuroscience.com/FENS-2022/samyra">Trend in Africa</a> <strong>Samyra Salek</strong>|
 |14:40|<strong>--- Coffee Break ---</strong>|
 |15:00| <a href="https://open-neuroscience.com/FENS-2022/edvard&weijian"> Mini2P </a> <strong>Edvard Moser</strong> & <strong>Weijian Zong</strong>|
 |15:45| <a href="https://open-neuroscience.com/FENS-2022/kushal"> Mesmerize </a> <strong>Kushal Kolar</strong>|
