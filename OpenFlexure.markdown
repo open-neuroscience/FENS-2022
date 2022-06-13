@@ -14,6 +14,15 @@ Friday 8th of July 13:20
 <strong>OpenFlexure</strong>
 
 <p style='text-align: justify;'>
+3D printing and the open-source community have made high performance hardware more accessible than ever. Rather than being limited by budget, warranties and supply chains, users now have unprecedented access to high performance equipment that can be customised and used at a fraction of proprietary prices.
+</p>
+
+<p style='text-align: justify;'>
+We present the OpenFlexure Microscope as a project increasing the accessibility of lab-grade, modifiable hardware. Costing less than €200 in parts, the OFM is an automated microscope that has been used in classrooms, research labs and health clinics. Users are encouraged to modify and use the 3D printed plastic stage, allowing total control over the physical design and controlling software of their experiments.
+</p>
+
+
+<p style='text-align: justify;'>
 The OpenFlexure project aims to make high precision mechanical positioning available to anyone with a 3D printer - for use in microscopes, micromanipulators, and more. It has been funded so far through several research grants, and most of the core development team are based at the University of Bath and the University of Cambridge.
 </p>
 
