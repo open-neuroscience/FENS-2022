@@ -324,6 +324,7 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 [France BioImaging](https://france-bioimaging.org/)  
 [University of Sussex](https://www.sussex.ac.uk/)  
 [FocalPlane](https://focalplane.biologists.com/)  
+[Independent NeuroScience Services (INSS)](https://www.inss.org.uk/)
 [TReND in Africa](https://trendinafrica.org/)  
 
 ---
