@@ -293,7 +293,9 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 >17:20: **Estibaliz Gomez de Mariscal**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 >
->- <a href="https://www.biorxiv.org/content/10.1101/2021.11.03.467152v1?rss=1">DeepBacs</a> - Bacterial image analysis using open-source deep learning approaches  
+>- <a href="https://www.biorxiv.org/content/10.1101/2021.11.03.467152v1?rss=1">FAIRy</a> - Deep Learning for BioImage Analysis
+
+
 <a href="https://open-neuroscience.com/FENS-2022/estibaliz">Abstract</a>
 <br/><br/>
 
