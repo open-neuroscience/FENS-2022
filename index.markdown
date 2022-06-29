@@ -287,7 +287,7 @@ TReND is a charity supporting scientific capacity building across Africa. We run
 
 >16:55: **Hannah Heil**, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 >
->- <a href="https://henriqueslab.github.io/team/2020-12-01-HH/">Open technologies for Super-Resolution in BioImaging</a> and Single-Particle Analysis  
+>- <a href="https://henriqueslab.github.io/team/2020-12-01-HH/">Open technologies for Super-Resolution in BioImaging</a> 
 <a href="https://open-neuroscience.com/FENS-2022/hannah">Abstract</a>
 <br/><br/>
 
