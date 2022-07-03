@@ -10,7 +10,7 @@ Friday 8th of July 9:00 - 12:00
 <strong>LEGOlish Workshop </strong>  
 
 Friday 8th of July - 16:55  
-<strong> LEGOlish, a creative project to promote Lightsheet Microscopy in a simple and visual form to a larger public and for education purposes. LEMOLish: its upgraded version with scientific performance, meant to help life science labs to deploy lightsheet imaging at a cost inferior to the samples preparation ! </strong>
+<strong> LEGOlish, a creative project to promote Lightsheet Microscopy in a simple and visual form to a larger public and for education purposes.  </strong>
 
 
 <p style='text-align: justify;'>
@@ -25,6 +25,8 @@ However, the goal was to make it as simple and economic as possible, so that any
 </p>
 
 <p style='text-align: justify;'>
+LEMOLish: its upgraded version with scientific performance, meant to help life science labs to deploy lightsheet imaging at a cost inferior to the samples preparation !
+
 LEMOLish is the motorized LEGO®-based light sheet microscope built to acquire scientific 3D images from centimeter-sized optically cleared biological samples. The system is open source, versatile, and costs about a hundred times less than existing custom/commercial solutions! LEMOLish comes with innovative optical solutions to keep performance of scientific imaging  high, and the instrument cost as low as possible, and keeps the LEGO philosophy to enable future LEMOlishers to adapt, modify and upgrade it easily.
 </p>
 
