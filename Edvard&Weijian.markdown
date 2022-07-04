@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Edvard Moser & Weijian Zong
-subtitle: Development of Machine-Learning Guided Super-Resolution Microscopy
+subtitle: An open-source miniature two-photon microscope for large-scale calcium imaging in freely moving mice
 permalink: /edvard&weijian
 ---
 
@@ -9,7 +9,7 @@ permalink: /edvard&weijian
 <img align="right" width="200" src="./assets/Thumbnails/Weijian.jpg"/>
 
 Friday 8th of July - 15:00  
-<strong> MINI2P - An open-source miniature two-photon microscope for large-scale calcium imaging in freely moving mice.</strong>
+<strong> MINI2P </strong>
 
 
 
